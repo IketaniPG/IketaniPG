@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**IketaniPG/IketaniPG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi to everyone! My name is Mateus and i'm 14 years old. I'm Brazilian and live in Belo Horizonte, in Minas Gerais. I don't speak english very well, but i know basically how to communicate.
 
-Here are some ideas to get you started:
+#### Languages i know to use.
+> if you need help in this things, you can call me in Discord
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ``Python`` and ``Node.JS`` basics.
+- ``HTML`` and ``CSS``
+- ``MySQL``
+
+---
+
+Discord: [Discord Bio](https://dsc.bio/iketani)
