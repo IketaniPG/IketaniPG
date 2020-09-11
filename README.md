@@ -5,7 +5,7 @@ Hi to everyone! My name is Mateus and i'm 14 years old. I'm Brazilian and live i
 #### Languages i know to use.
 > if you need help in this things, you can call me in Discord
 
-- ``Python`` and ``Node.JS`` basics.
+- ``Python`` advanced and ``Node.JS`` basics.
 - ``HTML`` and ``CSS``
 - ``MySQL``
 
